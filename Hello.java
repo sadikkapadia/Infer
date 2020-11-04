@@ -8,8 +8,9 @@
  */
 
 class Hello {
+  
   int test() {
-    String s = null;
-    return s.length();
+    String p = null;
+    return p.length();
   }
 }
